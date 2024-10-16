@@ -1,0 +1,33 @@
+{
+  "rootId": "11a047149aef80ffb78ef8afd3325647",
+  "rootObjectType": "page",
+  "cache": {
+    "cacheDirectory": "./.downloader",
+    "cleanCache": false,
+    "cacheStrategy": "cache",
+    "cacheAssets": true
+  },
+  "conversion": {
+    "skip": false,
+    "overwrite": false,
+    "markdownExtension": "md",
+    "filters": [],
+    "pageLinkHasExtension": true,
+    "outputPaths": {
+      "markdown": "./",
+      "assets": "./"
+    },
+    "markdownPrefixes": {
+      "markdown": "",
+      "assets": ""
+    },
+    "layoutStrategy": {
+      "markdown": "hierarchical",
+      "assets": "hierarchical"
+    },
+    "namingStrategy": {
+      "markdown": "githubSlug",
+      "assets": "default"
+    }
+  }
+}
